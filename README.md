@@ -1,5 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.gifer.com/GYny.gif))]
-
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
